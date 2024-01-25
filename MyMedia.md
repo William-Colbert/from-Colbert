@@ -23,3 +23,16 @@ I like many types of media and I would like to share some of my reccomendations 
 > Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
 -*Mother Teresa*
+
+---
+
+### Code Fencing
+Code that finds the difference between two lists.
+```
+List difference(Iterable a, Iterable b) {
+  final s = b.toSet();
+  return a.where((x) => !s.contains(x)).toList();
+}
+
+```
+Link to snippet(dart 9) <https://code.pieces.app/collections/dart>
