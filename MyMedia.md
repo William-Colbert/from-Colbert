@@ -18,6 +18,8 @@ I like many types of media and I would like to share some of my reccomendations 
 
 ### Favorite Quotes
 > It is during our darkest moments that we must focus to see the light.
+>
 -*Aristotle*
 > Spread love everywhere you go. Let no one ever come to you without leaving happier.
+>
 -*Mother Teresa*
