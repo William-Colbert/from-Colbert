@@ -10,3 +10,7 @@ My family always went there when I was a kid. I love the **pasta** and **burgers
 1. Cajun Shrimp Pasta
 2. Chicken Nachos
 3. Molten Lava Chocolate Cake
+#### Places to Visit Near Restaurant
+* Target
+* Best Buy
+* Petco
