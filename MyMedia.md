@@ -13,3 +13,11 @@ I like many types of media and I would like to share some of my reccomendations 
 |All of the Lights|Catchy and a good motivating song for me|Kanye West|
 |Survive|Inspirational and I like rock|Rise Against|
 |Hi-Fi Rush|Music mixed with gaming makes for a fun time|Tango Gameworks|
+
+---
+
+### Favorite Quotes
+> It is during our darkest moments that we must focus to see the light.
+-*Aristotle*
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+-*Mother Teresa*
